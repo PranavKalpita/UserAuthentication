@@ -17,17 +17,28 @@ namespace UserAuthentication.WebApi.Controllers
 
         [HttpGet]
         [Route("")]
-        public async Task<User> GetUserDetails(string email,string password)
+        public async Task<IActionResult> GetUserDetails(string email,string password)
         {
-
+            if (email != null && password != null)
+            {
+                var entity = await services.GetuserAsync(email,password);
+                if(entity == null) 
+                    return NotFound("User Not Found");
+                else 
+                    return Ok(entity);
+            }
+            return BadRequest("Email id And Password Required");
         }
 
 
         [HttpPost]
         [Route("add")]
-        public async Task<User> RegisterNewuser([FromForm]UserRequest user)
+        public async Task<IActionResult> RegisterNewuser([FromForm] UserRequest user)
         {
-
+            var entity = await services.RegisteruserAsync(user);
+            if (!entity)
+                return BadRequest("Something went wrong");
+            return Ok("User Registered Successfully");
         }
     }
 }

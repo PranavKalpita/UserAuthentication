@@ -1,7 +1,44 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\PranavKumar\\Desktop\\CollegeProject\\UserAuthentication\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4D81B6-AD56-4C25-9AB3-0C8442653520}|UserAuthentication.WebApi\\UserAuthentication.WebApi.csproj|c:\\users\\pranavkumar\\desktop\\collegeproject\\userauthentication\\userauthentication.webapi\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D4D81B6-AD56-4C25-9AB3-0C8442653520}|UserAuthentication.WebApi\\UserAuthentication.WebApi.csproj|solutionrelative:userauthentication.webapi\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4D81B6-AD56-4C25-9AB3-0C8442653520}|UserAuthentication.WebApi\\UserAuthentication.WebApi.csproj|c:\\users\\pranavkumar\\desktop\\collegeproject\\userauthentication\\userauthentication.webapi\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D4D81B6-AD56-4C25-9AB3-0C8442653520}|UserAuthentication.WebApi\\UserAuthentication.WebApi.csproj|solutionrelative:userauthentication.webapi\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4D81B6-AD56-4C25-9AB3-0C8442653520}|UserAuthentication.WebApi\\UserAuthentication.WebApi.csproj|c:\\users\\pranavkumar\\desktop\\collegeproject\\userauthentication\\userauthentication.webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D4D81B6-AD56-4C25-9AB3-0C8442653520}|UserAuthentication.WebApi\\UserAuthentication.WebApi.csproj|solutionrelative:userauthentication.webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4D81B6-AD56-4C25-9AB3-0C8442653520}|UserAuthentication.WebApi\\UserAuthentication.WebApi.csproj|c:\\users\\pranavkumar\\desktop\\collegeproject\\userauthentication\\userauthentication.webapi\\databaseconfig\\databaseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D4D81B6-AD56-4C25-9AB3-0C8442653520}|UserAuthentication.WebApi\\UserAuthentication.WebApi.csproj|solutionrelative:userauthentication.webapi\\databaseconfig\\databaseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4D81B6-AD56-4C25-9AB3-0C8442653520}|UserAuthentication.WebApi\\UserAuthentication.WebApi.csproj|c:\\users\\pranavkumar\\desktop\\collegeproject\\userauthentication\\userauthentication.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D4D81B6-AD56-4C25-9AB3-0C8442653520}|UserAuthentication.WebApi\\UserAuthentication.WebApi.csproj|solutionrelative:userauthentication.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4D81B6-AD56-4C25-9AB3-0C8442653520}|UserAuthentication.WebApi\\UserAuthentication.WebApi.csproj|c:\\users\\pranavkumar\\desktop\\collegeproject\\userauthentication\\userauthentication.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D4D81B6-AD56-4C25-9AB3-0C8442653520}|UserAuthentication.WebApi\\UserAuthentication.WebApi.csproj|solutionrelative:userauthentication.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4D81B6-AD56-4C25-9AB3-0C8442653520}|UserAuthentication.WebApi\\UserAuthentication.WebApi.csproj|c:\\users\\pranavkumar\\desktop\\collegeproject\\userauthentication\\userauthentication.webapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D4D81B6-AD56-4C25-9AB3-0C8442653520}|UserAuthentication.WebApi\\UserAuthentication.WebApi.csproj|solutionrelative:userauthentication.webapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4D81B6-AD56-4C25-9AB3-0C8442653520}|UserAuthentication.WebApi\\UserAuthentication.WebApi.csproj|c:\\users\\pranavkumar\\desktop\\collegeproject\\userauthentication\\userauthentication.webapi\\models\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D4D81B6-AD56-4C25-9AB3-0C8442653520}|UserAuthentication.WebApi\\UserAuthentication.WebApi.csproj|solutionrelative:userauthentication.webapi\\models\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4D81B6-AD56-4C25-9AB3-0C8442653520}|UserAuthentication.WebApi\\UserAuthentication.WebApi.csproj|c:\\users\\pranavkumar\\desktop\\collegeproject\\userauthentication\\userauthentication.webapi\\userauthentication.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2D4D81B6-AD56-4C25-9AB3-0C8442653520}|UserAuthentication.WebApi\\UserAuthentication.WebApi.csproj|solutionrelative:userauthentication.webapi\\userauthentication.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +55,122 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\PranavKumar\\Desktop\\CollegeProject\\UserAuthentication\\UserAuthentication.WebApi\\Models\\UserRequest.cs",
+              "RelativeDocumentMoniker": "UserAuthentication.WebApi\\Models\\UserRequest.cs",
+              "ToolTip": "C:\\Users\\PranavKumar\\Desktop\\CollegeProject\\UserAuthentication\\UserAuthentication.WebApi\\Models\\UserRequest.cs",
+              "RelativeToolTip": "UserAuthentication.WebApi\\Models\\UserRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:06:27.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserAuthentication.WebApi.csproj",
+              "DocumentMoniker": "C:\\Users\\PranavKumar\\Desktop\\CollegeProject\\UserAuthentication\\UserAuthentication.WebApi\\UserAuthentication.WebApi.csproj",
+              "RelativeDocumentMoniker": "UserAuthentication.WebApi\\UserAuthentication.WebApi.csproj",
+              "ToolTip": "C:\\Users\\PranavKumar\\Desktop\\CollegeProject\\UserAuthentication\\UserAuthentication.WebApi\\UserAuthentication.WebApi.csproj",
+              "RelativeToolTip": "UserAuthentication.WebApi\\UserAuthentication.WebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-17T12:04:32.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\PranavKumar\\Desktop\\CollegeProject\\UserAuthentication\\UserAuthentication.WebApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "UserAuthentication.WebApi\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\PranavKumar\\Desktop\\CollegeProject\\UserAuthentication\\UserAuthentication.WebApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "UserAuthentication.WebApi\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T11:52:21.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PranavKumar\\Desktop\\CollegeProject\\UserAuthentication\\UserAuthentication.WebApi\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "UserAuthentication.WebApi\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\PranavKumar\\Desktop\\CollegeProject\\UserAuthentication\\UserAuthentication.WebApi\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "UserAuthentication.WebApi\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T11:59:38.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatabaseConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\PranavKumar\\Desktop\\CollegeProject\\UserAuthentication\\UserAuthentication.WebApi\\DatabaseConfig\\DatabaseConfiguration.cs",
+              "RelativeDocumentMoniker": "UserAuthentication.WebApi\\DatabaseConfig\\DatabaseConfiguration.cs",
+              "ToolTip": "C:\\Users\\PranavKumar\\Desktop\\CollegeProject\\UserAuthentication\\UserAuthentication.WebApi\\DatabaseConfig\\DatabaseConfiguration.cs",
+              "RelativeToolTip": "UserAuthentication.WebApi\\DatabaseConfig\\DatabaseConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:15:13.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "C:\\Users\\PranavKumar\\Desktop\\CollegeProject\\UserAuthentication\\UserAuthentication.WebApi\\Services\\UserServices.cs",
+              "RelativeDocumentMoniker": "UserAuthentication.WebApi\\Services\\UserServices.cs",
+              "ToolTip": "C:\\Users\\PranavKumar\\Desktop\\CollegeProject\\UserAuthentication\\UserAuthentication.WebApi\\Services\\UserServices.cs",
+              "RelativeToolTip": "UserAuthentication.WebApi\\Services\\UserServices.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:21:27.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PranavKumar\\Desktop\\CollegeProject\\UserAuthentication\\UserAuthentication.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "UserAuthentication.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\PranavKumar\\Desktop\\CollegeProject\\UserAuthentication\\UserAuthentication.WebApi\\appsettings.json",
+              "RelativeToolTip": "UserAuthentication.WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-18T06:25:27.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PranavKumar\\Desktop\\CollegeProject\\UserAuthentication\\UserAuthentication.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "UserAuthentication.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\PranavKumar\\Desktop\\CollegeProject\\UserAuthentication\\UserAuthentication.WebApi\\Program.cs",
+              "RelativeToolTip": "UserAuthentication.WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:26:19.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\PranavKumar\\Desktop\\CollegeProject\\UserAuthentication\\UserAuthentication.WebApi\\Models\\User.cs",
+              "RelativeDocumentMoniker": "UserAuthentication.WebApi\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\PranavKumar\\Desktop\\CollegeProject\\UserAuthentication\\UserAuthentication.WebApi\\Models\\User.cs",
+              "RelativeToolTip": "UserAuthentication.WebApi\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:05:00.023Z",
+              "EditorCaption": ""
             }
           ]
         }

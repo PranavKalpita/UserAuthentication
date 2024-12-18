@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "8xBwNxoTsDYN/WmijZ9/9nTO4IOpdYAgCcNYB3PnOmo=",
+  "Source": "UserAuthentication.WebApi",
+  "BasePath": "_content/UserAuthentication.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
